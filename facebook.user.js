@@ -33,8 +33,7 @@ $(document).ready(function() {
         var postFormUrl = form.attr('action');
         // Set the message
         form.find('#composerInput').val(message);
-        
-        console.log(postFormUrl);
+
         // Post the responce
         $.post(postFormUrl, $(form).serialize());
     }
