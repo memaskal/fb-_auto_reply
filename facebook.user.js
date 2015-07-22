@@ -9,8 +9,8 @@
 // ==/UserScript==
 
 var messageContent = /(xronia polla)|(χρ(ό|ο)νια πολλ(ά|α))|(happy birthday)/i;
-var messageList    = ['Thank you', 'Thanx you are the best','Thanx cuttie :)'];
-var defaultMessage = 'Thank you alot for your kind words';
+var messageList    = ['Thank you', 'Thanx, you are the best','Thanx cuttie :*'];
+var defaultMessage = 'Thank you a lot for your kind words';
 
 var responceGroups = {
     'memas.kal' : 1,
