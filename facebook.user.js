@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Facebook auto reply
-// @namespace   http://www.bigservers.square7.ch/blog
+// @namespace   https://github.com/memaskal/fb_auto_reply
 // @description a facebook wishing post, auto reply tool made for the glory of jquery
 // @include     https://m.facebook.com/<your_username_goes_here>*
 // @version     1
